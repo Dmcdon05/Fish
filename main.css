@@ -1,0 +1,59 @@
+h1 {
+	color: black;
+	font-weight: bold;
+	font-size: 40px;
+	font-family: Pensum ;
+	border: black 2px;
+}
+
+.story-header h1{
+	border-bottom: 5px black;
+}
+
+.h1
+{
+
+}
+
+.body {
+	margin: 0px, 0px, 0px, 0px;
+
+}
+.iframe{
+	padding-top: 5px;
+}
+
+.photo-caption
+{
+	font-style: italic;
+
+}
+
+.br {
+	font-style: italic;
+	color: slategray;
+}
+p {
+	color: black;
+	margin: 20px;
+
+	
+}
+
+
+
+.img {
+	padding: 5px;
+	height: auto;
+	
+	max-width: 100%;
+	border: 5px solid-black
+
+}
+
+.byline {
+
+	font: sans-serif;
+	font-weight: bold;
+
+}
